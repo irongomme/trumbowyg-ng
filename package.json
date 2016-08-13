@@ -1,12 +1,12 @@
 {
-  "name": "trumbowyg-ng",
+  "name": "irongomme-trumbowyg-ng",
   "version": "0.0.4",
   "private": true,
-  "description": "Angular directive for wysiwyg editor Trumbowyg",
+  "description": "Angular directive for wysiwyg editor Trumbowyg. Forked from lizardK trumbowyg-ng project.",
   "main": "./dist/trumbowyg-ng.min.js",
   "repository": {
     "type": "git",
-    "url": "git@github.com:lizardK/Trumbowyg.git"
+    "url": "git@github.com:irongomme/Trumbowyg.git"
   },
   "devDependencies": {
     "grunt": "0.4.x",
